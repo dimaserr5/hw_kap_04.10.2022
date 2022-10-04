@@ -144,3 +144,18 @@ span:nth-child(18) {
     font-family: cursive;
 }
 
+.footer_carusel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer_carusel_block {
+
+}
+.footer_carusel_img {
+    width: 180px;
+    height: 9em;
+    margin: 20px;
+    border-radius: 12px;
+}
+
